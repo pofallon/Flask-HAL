@@ -47,7 +47,7 @@ Here is the response from the above view.
                 "href": "/hello"
             },
         },
-        "foo": "bar"
+        "message": "Hello World"
     }
 
 ## Contributing
